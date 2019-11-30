@@ -22,4 +22,4 @@ class Compute:
         product = 1
         for item in self.operands:
             product *= item
-        print(sum)
+        print(product)
